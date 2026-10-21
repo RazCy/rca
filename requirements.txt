@@ -5,6 +5,9 @@ python-dotenv>=1.0.0
 pydantic>=2.0.0
 rich>=13.0.0
 
+# UI
+streamlit>=1.28.0
+
 # Optional but recommended for agent orchestration
 # langchain / langgraph / crewai can be added later
 # For pure Copilot CLI / simple agent we keep it light
